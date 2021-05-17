@@ -1,0 +1,13 @@
+{
+    "ID":"6bd52e94-7c08-449e-8766-ba3924bf8f61",
+    "ActionKeyword":"n",
+    "Name":"Notion Plugin",
+    "Description":"NotionAPI",
+    "Author":"Wox",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launcher/Wox",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py",
+    "Disabled": true
+}
