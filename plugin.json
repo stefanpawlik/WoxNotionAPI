@@ -1,13 +1,13 @@
 {
     "ID":"6bd52e94-7c08-449e-8766-ba3924bf8f61",
     "ActionKeyword":"n",
-    "Name":"Notion Plugin",
-    "Description":"NotionAPI",
-    "Author":"Wox",
+    "Name":"Create Notion Page",
+    "Description":"Create pages in your notion database",
+    "Author":"stefanpawlik",
     "Version":"1.0",
     "Language":"python",
-    "Website":"https://github.com/Wox-launcher/Wox",
+    "Website":"https://github.com/stefanpawlik/WoxNotionCreatePage",
     "IcoPath":"Images\\app.png",
     "ExecuteFileName":"main.py",
-    "Disabled": true
+    "Disabled": false
 }
